@@ -1,1 +1,9 @@
-console.log('hello!')
+tailwind.config = {
+  theme: {
+    extend: {
+      colors: {
+        colorOrange: '#ff9800',
+      },
+    },
+  },
+};
